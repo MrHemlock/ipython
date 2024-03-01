@@ -39,3 +39,10 @@ venv*/
 *.code-workspace
 .history
 .vscode
+
+# pdm project manager stuff
+.pdm-python
+pdm.lock
+
+# pyright lsp local config
+pyrightconfig.json
